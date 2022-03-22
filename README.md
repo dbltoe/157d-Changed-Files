@@ -2,7 +2,7 @@
 
 All the files that were changed from 1.5.7c to 1.5.7d
 
-When a new version is released, I use a commercial comparison software to find and keep the changed files in the folder order they are already in.
+When a new version is released, I use a commercial comparison software to find and keep the changed files in the folder order they are already in when released.
 
 This repository is the result of checking a clean download of 1.5.7d against a clean download of 1.5.7d.
 
